@@ -1,0 +1,8 @@
+﻿  Q1.cpp
+  Q2.cpp
+C:\Users\LENOVO\OneDrive\Desktop\final pf project\oop lab 5\Q2.cpp(24,16): error C3646: 'showDetails': unknown override specifier
+C:\Users\LENOVO\OneDrive\Desktop\final pf project\oop lab 5\Q2.cpp(24,27): error C2059: syntax error: '('
+C:\Users\LENOVO\OneDrive\Desktop\final pf project\oop lab 5\Q2.cpp(25,34): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\LENOVO\OneDrive\Desktop\final pf project\oop lab 5\Q2.cpp(33,11): error C2039: 'showDetails': is not a member of 'dog'
+C:\Users\LENOVO\OneDrive\Desktop\final pf project\oop lab 5\Q2.cpp(17,7): message : see declaration of 'dog'
+  Generating Code...

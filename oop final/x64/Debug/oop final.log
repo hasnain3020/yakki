@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\LENOVO\OneDrive\Desktop\final pf project\oop final\Source.cpp(33,39): error C2590: 'truck': only a constructor can have a base/member initializer list
+C:\Users\LENOVO\OneDrive\Desktop\final pf project\oop final\Source.cpp(35,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\LENOVO\OneDrive\Desktop\final pf project\oop final\Source.cpp(39,5): warning C4183: 'displayDetails': missing return type; assumed to be a member function returning 'int'
+C:\Users\LENOVO\OneDrive\Desktop\final pf project\oop final\Source.cpp(35,5): error C2555: 'Truck::displayDetails': overriding virtual function return type differs and is not covariant from 'Vehicle::displayDetails'
+C:\Users\LENOVO\OneDrive\Desktop\final pf project\oop final\Source.cpp(13,18): message : see declaration of 'Vehicle::displayDetails'
+C:\Users\LENOVO\OneDrive\Desktop\final pf project\oop final\Source.cpp(33,58): error C2512: 'Vehicle': no appropriate default constructor available
+C:\Users\LENOVO\OneDrive\Desktop\final pf project\oop final\Source.cpp(4,7): message : see declaration of 'Vehicle'
+C:\Users\LENOVO\OneDrive\Desktop\final pf project\oop final\Source.cpp(33,40): error C2614: 'Truck': illegal member initialization: 'vehicle' is not a base or member
+C:\Users\LENOVO\OneDrive\Desktop\final pf project\oop final\Source.cpp(53,17): error C2661: 'Truck::Truck': no overloaded function takes 4 arguments
+C:\Users\LENOVO\OneDrive\Desktop\final pf project\oop final\Source.cpp(53,17): message : while trying to match the argument list '(const char [5], const char [6], int, double)'
